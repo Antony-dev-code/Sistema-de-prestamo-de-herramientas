@@ -313,3 +313,6 @@ def ver_reportes_solicitudes_vencidas():
             print("Días vencido:", reporte["dias de vencido"])
             print("Número de reporte:", reporte["Numero de reporte"])
             print("FIN DEL REPORTE")
+
+
+print('ra mamaste xd')
