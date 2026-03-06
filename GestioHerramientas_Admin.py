@@ -138,5 +138,5 @@ def eliminar_herramienta():
     print("El ID no existe. \n")
 
 
-
+print('Coregido el bug que impedía la correcta devolución de herramientas')
 
