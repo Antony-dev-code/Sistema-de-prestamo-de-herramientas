@@ -241,3 +241,4 @@ def menu3():
         if op6==4:
             break
 
+print('Nuevo menu para gente de escasos recursos')
