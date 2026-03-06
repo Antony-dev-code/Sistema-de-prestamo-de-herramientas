@@ -315,4 +315,4 @@ def ver_reportes_solicitudes_vencidas():
             print("FIN DEL REPORTE")
 
 
-print('ra mamaste xd')
+print('Implementada la nueva función que permite ordenar personas por su color de piel')
