@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nombre_herramienta": "taladro",
+        "categoria": "construccion",
+        "cantidad": 5,
+        "precio_unitario": 200000,
+        "estado_h": "disponible"
+    },
+    {
+        "id": 2,
+        "nombre_herramienta": "martillo",
+        "categoria": "construccion",
+        "cantidad": -6,
+        "precio_unitario": 20000,
+        "estado_h": "disponible"
+    },
+    {
+        "id": 3,
+        "nombre_herramienta": "destornillador",
+        "categoria": "oficios varios",
+        "cantidad": 30,
+        "precio_unitario": 5000,
+        "estado_h": "disponible"
+    }
+]

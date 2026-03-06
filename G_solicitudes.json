@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "nombre_solicitud": "Jaime",
+        "herramienta": "martillo",
+        "cantidad": 5,
+        "fecha_inicio": "2026-02-19",
+        "fecha_entrega": "2026-02-18",
+        "dias_restantes": "-1"
+    },
+    {
+        "id": 2,
+        "nombre_solicitud": "Jaime",
+        "herramienta": "destornillador",
+        "cantidad": 5,
+        "fecha_inicio": "2026-02-20",
+        "fecha_entrega": "2026-02-25",
+        "dias_restantes": "5"
+    },
+    {
+        "id": 4,
+        "nombre_solicitud": "Jaime",
+        "herramienta": "taladro",
+        "cantidad": 1,
+        "fecha_inicio": "2026-02-20",
+        "fecha_entrega": "2026-02-18",
+        "dias_restantes": "-2"
+    }
+]

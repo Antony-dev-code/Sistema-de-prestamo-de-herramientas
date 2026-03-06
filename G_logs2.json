@@ -1,0 +1,10 @@
+[
+    {
+        "accion": "Consulta de disponibilidad",
+        "detalle": "El usuario consulto las herramientas disponibles"
+    },
+    {
+        "accion": "Crear solicitud",
+        "detalle": "Se creo solicitud para la herramienta taladro"
+    }
+]
